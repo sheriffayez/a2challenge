@@ -11,3 +11,4 @@ function checkLogin() {
         document.getElementById('submit').disabled = true;
     }
 }
+checkLogin();
